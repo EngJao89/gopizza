@@ -15,7 +15,13 @@
           }
         }
       ]
-    ]
+    ],
+    "android": {
+      "package": "com.joao.ricardo.gopizza"
+    },
+    "ios": {
+      "bundleIdentifier": "com.joao.ricardo.gopizza"
+    }
   },
   "name": "gopizza"
 }
