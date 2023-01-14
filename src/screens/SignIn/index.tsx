@@ -6,7 +6,7 @@ import { KeyboardAvoidingView, Platform } from 'react-native';
 import brandImg from '@assets/brand.png';
 
 import { Input } from '@components/Input';
-//import { Button } from '@components/Button';
+import { Button } from '@components/Button';
 
 import {
   Container,
