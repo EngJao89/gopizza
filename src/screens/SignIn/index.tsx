@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { KeyboardAvoidingView, Platform } from 'react-native';
 
-//import { useAuth } from '@hooks/auth';
+import { useAuth } from '@hooks/auth';
 
 import brandImg from '@assets/brand.png';
 
